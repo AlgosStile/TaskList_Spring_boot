@@ -1,5 +1,5 @@
 # "TaskList - TODO"
-### Full stack project (frontend + backend)
+### Fullstack project (frontend + backend)
 Stack: Angular / Java-Spring boot / Spring MVC / + Hibernate
 
 ![alt text](https://github.com/AlgosStile/TaskList_Spring_boot/blob/main/img/tasklist.png "Screenshot 1")
