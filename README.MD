@@ -2,8 +2,11 @@
 ### Full stack project (frontend + backend)
 Stack: Angular / Java-Spring boot / Spring MVC / + Hibernate
 
+![alt text](https://github.com/AlgosStile/TaskList_Spring_boot/blob/main/img/tasklist.png "Screenshot 1")
 
+![alt text](https://github.com/AlgosStile/TaskList_Spring_boot/blob/main/img/tasklist2.png "Screenshot 2")
 
+![alt text](https://github.com/AlgosStile/TaskList_Spring_boot/blob/main/img/tasklist3.png "Screenshot 3")
 
 
 ## Description
